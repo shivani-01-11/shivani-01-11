@@ -5,7 +5,7 @@ Hi, I’m Shivani — a Data Engineer passionate about building scalable data pi
 
 
 <p align="center">
-  <img src="quote-card.svg" />
+  <img src="https://raw.githubusercontent.com/shivani-01-11/shivani-01-11/main/quote-card.svg" />
 </p>
 
 
