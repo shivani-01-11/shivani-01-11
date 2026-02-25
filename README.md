@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m Shivani — a Data Engineer passionate about building scalable data pipelines and turning complex datasets into meaningful dashboards. I enjoy working with PySpark, SQL, Snowflake, and Power BI, and I’m currently exploring modern cloud data engineering practices while continuously learning and growing through real-world projects.
+I’m Shivani — a Data Engineer passionate about building scalable data pipelines and turning complex datasets into meaningful dashboards. I enjoy working with PySpark, SQL, Snowflake, and Power BI, and I’m currently exploring modern cloud data engineering practices while continuously learning and growing through real-world projects.
 
 
 <p align="center">
