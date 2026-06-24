@@ -54,26 +54,28 @@ Currently exploring backend development, cloud technologies, system design, and 
 ---
 
 ## ✨ What I Love Working On
-- Building scalable ETL and ELT pipelines  
-- Designing cloud-native data architectures  
-- Working with PySpark and distributed processing  
-- Developing Snowflake-based analytics solutions  
-- Creating interactive Power BI dashboards  
-- Exploring AWS services for modern data engineering  
-- Solving business problems using data-driven insights  
-- Data warehousing and dimensional modeling  
-- Workflow orchestration and automation  
+- Building backend applications using Java and Spring Boot
+- Designing scalable RESTful APIs and microservices
+- Developing full-stack web applications
+- Solving complex problems through clean and efficient code
+- Working with databases and optimizing data access layers
+- Exploring cloud technologies and modern software architectures
+- Learning system design and software engineering best practices
+- Building projects that improve user experience and business workflows
+- Continuously learning new technologies through hands-on development 
 
 ---
 
 ## 📌 Current Focus
-- Advanced Data Engineering Projects  
-- Cloud Data Pipelines with AWS and Snowflake  
-- Data Warehousing and Dimensional Modeling  
-- PySpark Optimization and Performance Tuning  
-- Dashboarding and Business Intelligence  
-- Workflow Orchestration and Automation  
-- Real-world Analytics and Reporting Solutions  
+- Backend Development with Java and Spring Boot
+- REST API Design and Development
+- Spring Security and Authentication
+- Microservices Architecture
+- Database Design and Performance Optimization
+- Full-Stack Application Development
+- Cloud Deployment and AWS Services
+- Software Design Patterns and System Design
+- Building Production-Ready Applications
 
 ---
 
