@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-I’m Shivani — a passionate Data Engineer who enjoys building scalable data pipelines, designing cloud-based architectures, and transforming raw data into meaningful insights.
+I’m Shivani
 
-I love working with PySpark, SQL, Snowflake, AWS, and Power BI to solve real-world business problems and create impactful dashboards.
+I enjoy building software that solves real-world problems, from backend applications and cloud solutions to data-driven platforms. Passionate about Java, Spring Boot, SQL, AWS, and modern development practices, I love turning ideas into scalable and user-friendly applications.
 
-Currently, I’m exploring modern cloud data engineering practices, workflow orchestration, data warehousing, and scalable analytics solutions while continuously learning through hands-on projects.
-
-I enjoy turning complex datasets into clean, understandable, and business-friendly solutions.
+Currently exploring backend development, cloud technologies, system design, and full-stack application development through hands-on projects and continuous learning.
 
 
 <p align="center">
